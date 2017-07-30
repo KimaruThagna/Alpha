@@ -1,2 +1,3 @@
 # Alpha
-The first Viyage
+The first Voyage.
+Yes it is....a great start. From hello world.....now we here!!!
